@@ -12,7 +12,7 @@ This project seeks to investigate and answer key questions such as:
 
 4. How do HIV cases among children compare to adults?
 
-5. Which countries show improvement—and which need urgent intervention?
+5. Which countries show improvement, and which need urgent intervention?
 
 By analyzing structured HIV data and visualizing it interactively, the project highlights global disparities and trends that can guide better public health decisions.  
 
