@@ -1,7 +1,8 @@
 # Global HIV/AIDS Burden Analysis: Infections, Treatment Access & Mortality Trends
 
 ## Problem Statement  
-The HIV/AIDS epidemic continues to pose a major global public health challenge, with striking disparities in infection rates, access to treatment, and mortality across countries. Although significant progress has been made in expanding treatment and prevention programs, millions of people worldwide remain affected, and outcomes vary greatly by region.
+An average  of 87% of the the global population  know  their HIV status.  
+HIV/AIDS epidemic continues to pose a major global public health challenge, with striking disparities in infection rates, access to treatment, and mortality across countries. Although significant progress has been made in expanding treatment and prevention programs, millions of people worldwide remain affected, and outcomes vary greatly by region.
 
 This project seeks to investigate and answer key questions such as:
 
