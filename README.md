@@ -30,4 +30,4 @@ The dataset comprised of identified HIV infection cases for years 2000, 2010 and
 . A fully designed SQL database  
 . Interactive Tableau dashboards  
 . Insights on HIV cases, deaths, and ART treatment coverage worldwide
- 
+ ![project scope]() 
