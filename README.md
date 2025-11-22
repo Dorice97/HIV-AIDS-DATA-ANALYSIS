@@ -30,4 +30,24 @@ The dataset comprised of identified HIV infection cases for years 2000, 2010 and
 . A fully designed SQL database  
 . Interactive Tableau dashboards  
 . Insights on HIV cases, deaths, and ART treatment coverage worldwide
- ![project scope]() 
+ ![project scope](https://github.com/Dorice97/HIV-AIDS-DATA-ANALYSIS/blob/main/PROJECT%20SCOPE.png)  
+
+ ## Analysis 
+ Analysis was done and story insights presented in Tableau,  
+ 
+ ### Conclusions made were as follows:  
+ 
+Africa still leads in HIV infections, indicating a continued need for increased resources and targeted interventions.  
+
+ART has significantly reduced HIV-related deaths, but countries with high infection rates still record a correspondingly high number of deaths, highlighting gaps in treatment coverage, access, and retention.  
+
+Prevention of mother-to-child transmission (PMTCT) remains a critical strategy, especially since 45% of people living with HIV are women. Strengthening PMTCT programs could greatly reduce transmission.  
+
+### Next Steps...  
+
+Expand the analysis to include other prevention interventions beyond ART. Incorporating data on HIV education, PrEP uptake, condom distribution, and testing coverage will provide a more holistic picture of prevention efforts.  
+
+Use a dataset that includes age groups and new vs. existing infections. This will help identify which age segments are contributing most to new infections and assess the effectiveness of current prevention strategies.  
+
+Explore trends over time to evaluate whether interventions are reducing incidence, improving ART retention, and lowering mortality.
+
