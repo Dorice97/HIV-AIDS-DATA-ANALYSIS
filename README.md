@@ -9,12 +9,12 @@ This project seeks to investigate and answer key questions such as:
 
 2. What trends are there in antiretroviral therapy (ART) coverage?
 
-3. Explore patterns Regional patterns in HIV-related mortality?
+3. What are the regional patterns in HIV-related mortality?
 
 4. What gaps do we have in prevention and treatment efforts?
 
 ## Objective   
-To analyze and visualize HIV data and visualizing , highlight global disparities and trends that can guide better public health decisions.  
+To analyze and visualize HIV data, highlight global disparities and trends that can guide better public health decisions.  
 
 ## Project Scope  
 Dataset used in the project was obtained from kaggle https://www.kaggle.com/datasets/imdevskp/hiv-aids-dataset  
